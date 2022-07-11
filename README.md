@@ -1,12 +1,12 @@
 # FBH
 Hacking To Facebook
 
-<code> Cloning Repo </code>
+Cloning Repo
 '''
 git clone https://github.com/Walker-00/FBH
 '''
 
-<code> Running </code>
+Running
 '''
 cd FBH && python fb.py
 '''
